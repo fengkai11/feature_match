@@ -1,0 +1,4 @@
+[Project]
+Name=feature_point_match
+Manager=KDevCMakeManager
+VersionControl=kdevgit
